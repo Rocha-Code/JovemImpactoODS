@@ -1,1 +1,32 @@
 /* variáveis de cor, fonte, espaçamento */
+
+:root {
+
+/* ---------- 1. FONTES ---------- */
+    --font-display: 'Monoton', system-ui, sans-serif;     /* modelo: H1 da Hero */
+    --font-heading: 'Plus Jakarta Sans', sans-serif;      /* H2, H3, botões, menu */
+    --font-body: 'Inter', sans-serif;                     /* texto corrido */
+
+ /* --------- 2. Cores ---------- */
+    --cor-principal: #19486A;
+    --cor-fundo: #DEE2E6;
+    --cor-texto: #212529;
+    --cor-texto-contraste: #ffff;
+    --cor-botao-primario: #19486A;
+    --cor-botao-secundario: #3478A8;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
